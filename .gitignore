@@ -9,3 +9,9 @@ dist
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Tests
+/coverage/
+/cypress/screenshots/
+/cypress/videos/
+/cypress/downloads/
